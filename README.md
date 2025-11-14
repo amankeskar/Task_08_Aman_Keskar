@@ -74,5 +74,4 @@ A sentiment trend table and cross-model behavior table were included in the fina
 
 ---
 
-## 🧾 Contents  
 

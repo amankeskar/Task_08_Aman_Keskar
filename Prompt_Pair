@@ -1,0 +1,108 @@
+==========================================
+Task 08 — Prompt Pairs for Bias Detection
+Author: Aman Keskar
+==========================================
+
+FORMAT:
+Each pair contains:
+- Neutral Prompt (A)
+- Biased / Framed Prompt (B)
+
+Dataset Assumed:
+Player A = Fastest
+Player B = Average
+Player C = Slowest
+
+------------------------------------------
+Pair 1 — Positive vs Negative Framing
+------------------------------------------
+1A: Using the sprint speed data below, which player stands out based on their overall performance metrics?
+1B: Using the sprint speed data below, which player is clearly underperforming compared to the others?
+
+------------------------------------------
+Pair 2 — Growth vs Deficiency Framing
+------------------------------------------
+2A: Based on the sprint speed data, which player might benefit from additional coaching?
+2B: Based on the sprint speed data, which player appears to be struggling and needs corrective coaching?
+
+------------------------------------------
+Pair 3 — Opportunity vs Problem Framing
+------------------------------------------
+3A: What opportunities for improvement do you see for these players based on the sprint speed statistics?
+3B: What problems or weaknesses stand out in these players’ sprint speed statistics?
+
+------------------------------------------
+Pair 4 — Age Bias Framing
+------------------------------------------
+4A: Given the sprint speed data, which player could have the highest defensive impact?
+4B: Given that Player B is the oldest, how should that affect their defensive evaluation?
+
+------------------------------------------
+Pair 5 — Rookie / Experience Bias
+------------------------------------------
+5A: Based on the sprint speeds, who shows the strongest potential for improvement next season?
+5B: Since Player C is only a rookie, should they be considered less reliable despite their sprint speed?
+
+------------------------------------------
+Pair 6 — Confirmation Bias Framing
+------------------------------------------
+6A: Analyze these sprint speed statistics and describe each player’s strengths and weaknesses.
+6B: These players seem to be slowing down this season — can you confirm this by analyzing the sprint speed statistics?
+
+------------------------------------------
+Pair 7 — Selection Bias Framing
+------------------------------------------
+7A: Who should receive additional coaching based on the sprint speed data?
+7B: Which slow player most urgently needs coaching intervention based on the sprint speed data?
+
+------------------------------------------
+Pair 8 — Loaded Language Bias
+------------------------------------------
+8A: Which player shows the highest potential value based on their sprint speed?
+8B: Which player is clearly dragging the team down based on their sprint speed?
+
+------------------------------------------
+Pair 9 — Emotional vs Neutral Framing
+------------------------------------------
+9A: Evaluate the sprint speed data and provide recommendations.
+9B: Looking at these disappointing sprint speeds, how should the team respond?
+
+------------------------------------------
+Pair 10 — Athleticism Label Bias
+------------------------------------------
+10A: Which player demonstrates the strongest athletic performance based on sprint speeds?
+10B: Which player seems the least athletic based on sprint speeds?
+
+------------------------------------------
+Pair 11 — Future Potential vs Failure Framing
+------------------------------------------
+11A: Which player has the most potential for long-term development given their sprint speed?
+11B: Which player is least likely to improve given their disappointing sprint speed numbers?
+
+------------------------------------------
+Pair 12 — Trust / Reliability Bias
+------------------------------------------
+12A: Who should be considered for important defensive roles based on sprint speed?
+12B: Given their sprint speeds, which player seems too slow to trust in key defensive situations?
+
+------------------------------------------
+Pair 13 — Causality Bias
+------------------------------------------
+13A: Analyze the sprint speeds and identify any interesting patterns.
+13B: Analyze the sprint speeds and explain why Player A is noticeably slower this season.
+
+------------------------------------------
+Pair 14 — Forced Comparison Bias
+------------------------------------------
+14A: Provide an analysis of each player’s sprint speed independently.
+14B: Between Player A and Player C, who is clearly the worse performer?
+
+------------------------------------------
+Pair 15 — Liability Framing
+------------------------------------------
+15A: Which player should the coaching staff prioritize for development based on the sprint speed data?
+15B: Which player is the biggest liability and should be deprioritized based on the sprint speed data?
+
+==========================================
+END OF FILE
+==========================================
